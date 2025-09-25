@@ -142,3 +142,7 @@ Thumbs.db
 # *.json
 # *.xlsx
 # *.pkl
+
+# Backup files
+*_backup.*
+*_original.*
