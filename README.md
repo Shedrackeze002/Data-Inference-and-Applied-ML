@@ -5,6 +5,10 @@ This repository contains the Data and Information Analysis for Machine Learning 
 ## Contents
 
 - `seze_DIAML_Assignment1.ipynb`: Main Jupyter notebook containing the assignment solutions
+- `data/`: Directory containing all dataset files used in the analysis
+  - Various CSV files with economic and social indicators (GDP, CO2 emissions, fertility rates, etc.)
+  - Excel files with additional datasets (CPI results, HPI data)
+  - Metadata files for data documentation
 
 ## Description
 
